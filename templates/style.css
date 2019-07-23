@@ -181,7 +181,7 @@ hr.section::after {
 }
 
 hr.section::before {
-  content: "❦";
+  content: "➰";
   color: black;
 }
 
@@ -198,7 +198,7 @@ hr.chapter::after {
 }
 
 hr.chapter::before {
-  content: "❦";
+  content: "➰";
   color: black;
 }
 
@@ -215,7 +215,7 @@ hr::after {
 }
 
 hr::before {
-  content: "❦";
+  content: "➰";
   color: black;
 }
 
